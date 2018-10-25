@@ -1,0 +1,158 @@
+Last login: Thu Mar 22 16:11:53 on ttys000
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/diamond
+Please enter number of rows: 
+1
+Too few rows to make a diamond. 
+Please enter a new number of rows: 
+2
+Too few rows to make a diamond. 
+Please enter a new number of rows: 
+3
+ *
+***
+ *
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/diamond
+Please enter number of rows: 
+25
+Too many rows to make a diamond. 
+Please enter a new number of rows: 
+24
+Too many rows to make a diamond. 
+Please enter a new number of rows: 
+23
+           *
+          ***
+         *****
+        *******
+       *********
+      ***********
+     *************
+    ***************
+   *****************
+  *******************
+ *********************
+***********************
+ *********************
+  *******************
+   *****************
+    ***************
+     *************
+      ***********
+       *********
+        *******
+         *****
+          ***
+           *
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/diamond
+Please enter number of rows: 
+4
+  *
+ ***
+*****
+ ***
+  *
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/diamond
+Please enter number of rows: 
+5
+  *
+ ***
+*****
+ ***
+  *
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/diamond
+Please enter number of rows: 
+6
+   *
+  ***
+ *****
+*******
+ *****
+  ***
+   *
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/diamond
+Please enter number of rows: 
+7
+   *
+  ***
+ *****
+*******
+ *****
+  ***
+   *
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/diamond
+Please enter number of rows: 
+8
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/diamond
+Please enter number of rows: 
+9
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/diamond
+Please enter number of rows: 
+10
+     *
+    ***
+   *****
+  *******
+ *********
+***********
+ *********
+  *******
+   *****
+    ***
+     *
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/diamond
+Please enter number of rows: 
+11
+     *
+    ***
+   *****
+  *******
+ *********
+***********
+ *********
+  *******
+   *****
+    ***
+     *
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/diamond
+Please enter number of rows: 
+20
+          *
+         ***
+        *****
+       *******
+      *********
+     ***********
+    *************
+   ***************
+  *****************
+ *******************
+*********************
+ *******************
+  *****************
+   ***************
+    *************
+     ***********
+      *********
+       *******
+        *****
+         ***
+          *
+Gh0stSurfer:~ doga$ 

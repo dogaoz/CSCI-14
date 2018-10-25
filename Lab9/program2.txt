@@ -1,0 +1,123 @@
+Last login: Thu Apr 19 20:51:15 on ttys003
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab9/program2
+Please enter 50 numbers: 34
+Please enter 50 numbers: 5
+Please enter 50 numbers: 3
+Please enter 50 numbers: 45
+Please enter 50 numbers: 6
+Please enter 50 numbers: 76
+Please enter 50 numbers: 5
+Please enter 50 numbers: 34
+Please enter 50 numbers: 3
+Please enter 50 numbers: 5
+Please enter 50 numbers: 7
+Please enter 50 numbers: 67
+Please enter 50 numbers: 5
+Please enter 50 numbers: -1
+Largest number is 76
+Smallest number is 3
+Sum of numbers is 295
+Average of numbers is 22.6923
+Printing Numbers in entered order...
+34    5    3   45    6   76    5   34    3    5
+7   67    5
+Printing Numbers in reverse order...
+5   67    7    5    3   34    5   76    6   45
+3    5   34
+Printing Numbers after sorted...
+3    3    5    5    5    5    6    7   34   34
+45   67   76
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab9/program2
+Please enter 50 numbers: 32
+Please enter 50 numbers: 0
+Please enter 50 numbers: 
+-1
+Largest number is 32
+Smallest number is 0
+Sum of numbers is 32
+Average of numbers is 16
+Printing Numbers in entered order...
+32    0
+Printing Numbers in reverse order...
+0   32
+Printing Numbers after sorted...
+0   32
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab9/program2
+Please enter 50 numbers: 32
+Please enter 50 numbers: 435
+Please enter 50 numbers: 5
+Please enter 50 numbers: 6
+Please enter 50 numbers: 54
+Please enter 50 numbers: 55
+Please enter 50 numbers: 78
+Please enter 50 numbers: 7
+Please enter 50 numbers: 65
+Please enter 50 numbers: 6
+Please enter 50 numbers: 445
+Please enter 50 numbers: 54
+Please enter 50 numbers: 6
+Please enter 50 numbers: 8
+Please enter 50 numbers: 7
+Please enter 50 numbers: 655
+Please enter 50 numbers: 67
+Please enter 50 numbers: 8
+Please enter 50 numbers: 9
+Please enter 50 numbers: 545
+Please enter 50 numbers: 6
+Please enter 50 numbers: 87
+Please enter 50 numbers: 645
+Please enter 50 numbers: 54
+Please enter 50 numbers: 56
+Please enter 50 numbers: 67
+Please enter 50 numbers: 45
+Please enter 50 numbers: 43
+Please enter 50 numbers: 34
+Please enter 50 numbers: 34
+Please enter 50 numbers: 54
+Please enter 50 numbers: 6
+Please enter 50 numbers: 567
+Please enter 50 numbers: 78
+Please enter 50 numbers: 76
+Please enter 50 numbers: 
+56
+Please enter 50 numbers: 53
+Please enter 50 numbers: 43
+Please enter 50 numbers: 554
+Please enter 50 numbers: 43
+Please enter 50 numbers: 53
+Please enter 50 numbers: 5456
+Please enter 50 numbers: 4546
+Please enter 50 numbers: 54
+Please enter 50 numbers: 65
+Please enter 50 numbers: 76
+Please enter 50 numbers: 5
+Please enter 50 numbers: 65
+Please enter 50 numbers: 454
+Please enter 50 numbers: 354
+Largest number is 5456
+Smallest number is 5
+Sum of numbers is 16276
+Average of numbers is 325.52
+Printing Numbers in entered order...
+32  435    5    6   54   55   78    7   65    6
+445   54    6    8    7  655   67    8    9  545
+6   87  645   54   56   67   45   43   34   34
+54    6  567   78   76   56   53   43  554   43
+53 5456 4546   54   65   76    5   65  454  354
+Printing Numbers in reverse order...
+354  454   65    5   76   65   54 4546 5456   53
+43  554   43   53   56   76   78  567    6   54
+34   34   43   45   67   56   54  645   87    6
+545    9    8   67  655    7    8    6   54  445
+6   65    7   78   55   54    6    5  435   32
+Printing Numbers after sorted...
+5    5    6    6    6    6    6    7    7    8
+8    9   32   34   34   43   43   43   45   53
+53   54   54   54   54   54   55   56   56   65
+65   65   67   67   76   76   78   78   87  354
+435  445  454  545  554  567  645  655 4546 5456
+Gh0stSurfer:~ doga$ 656
+-bash: 656: command not found
+Gh0stSurfer:~ doga$ 23
+-bash: 23: command not found
+Gh0stSurfer:~ doga$ 

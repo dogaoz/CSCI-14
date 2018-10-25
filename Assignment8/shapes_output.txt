@@ -1,0 +1,207 @@
+Last login: Tue Apr 10 13:41:16 on ttys000
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment8/shapes
+Which shape do you want to draw?
+1 - Diamond
+2 - Triangle
+3 - Parallelogram
+4 - Pyramid
+5 - Hourglass
+6 - Quit program
+-342
+Invalid Option. Please enter a number from the menu.
+Which shape do you want to draw?
+1 - Diamond
+2 - Triangle
+3 - Parallelogram
+4 - Pyramid
+5 - Hourglass
+6 - Quit program
+43554
+Invalid Option. Please enter a number from the menu.
+Which shape do you want to draw?
+1 - Diamond
+2 - Triangle
+3 - Parallelogram
+4 - Pyramid
+5 - Hourglass
+6 - Quit program
+1
+Please enter number of rows between 3-23: 
+-32423
+Too few rows to make the shape. 
+Please enter a new number of rows: 
+1
+Too few rows to make the shape. 
+Please enter a new number of rows: 
+2
+Too few rows to make the shape. 
+Please enter a new number of rows: 
+24
+Too many rows to make the shape. 
+Please enter a new number of rows: 
+25
+Too many rows to make the shape. 
+Please enter a new number of rows: 
+432432
+Too many rows to make the shape. 
+Please enter a new number of rows: 
+10
+     *
+    ***
+   *****
+  *******
+ *********
+***********
+ *********
+  *******
+   *****
+    ***
+     *
+Which shape do you want to draw?
+1 - Diamond
+2 - Triangle
+3 - Parallelogram
+4 - Pyramid
+5 - Hourglass
+6 - Quit program
+2
+Please enter number of rows between 3-23: 
+4
+****
+ ***
+  **
+   *
+Which shape do you want to draw?
+1 - Diamond
+2 - Triangle
+3 - Parallelogram
+4 - Pyramid
+5 - Hourglass
+6 - Quit program
+3
+Please enter number of rows between 3-23: 
+5
+  *
+ **
+***
+**
+*
+Which shape do you want to draw?
+1 - Diamond
+2 - Triangle
+3 - Parallelogram
+4 - Pyramid
+5 - Hourglass
+6 - Quit program
+4
+Please enter number of rows between 3-23: 
+6
+     *
+    ***
+   *****
+  *******
+ *********
+***********
+Which shape do you want to draw?
+1 - Diamond
+2 - Triangle
+3 - Parallelogram
+4 - Pyramid
+5 - Hourglass
+6 - Quit program
+5
+Please enter number of rows between 3-23: 
+5
+*****
+ ***
+  *
+ ***
+*****
+Which shape do you want to draw?
+1 - Diamond
+2 - Triangle
+3 - Parallelogram
+4 - Pyramid
+5 - Hourglass
+6 - Quit program
+2
+Please enter number of rows between 3-23: 
+23 
+***********************
+ **********************
+  *********************
+   ********************
+    *******************
+     ******************
+      *****************
+       ****************
+        ***************
+         **************
+          *************
+           ************
+            ***********
+             **********
+              *********
+               ********
+                *******
+                 ******
+                  *****
+                   ****
+                    ***
+                     **
+                      *
+Which shape do you want to draw?
+1 - Diamond
+2 - Triangle
+3 - Parallelogram
+4 - Pyramid
+5 - Hourglass
+6 - Quit program
+4
+Please enter number of rows between 3-23: 
+3
+  *
+ ***
+*****
+Which shape do you want to draw?
+1 - Diamond
+2 - Triangle
+3 - Parallelogram
+4 - Pyramid
+5 - Hourglass
+6 - Quit program
+5
+Please enter number of rows between 3-23: 
+22
+***********************
+ *********************
+  *******************
+   *****************
+    ***************
+     *************
+      ***********
+       *********
+        *******
+         *****
+          ***
+           *
+          ***
+         *****
+        *******
+       *********
+      ***********
+     *************
+    ***************
+   *****************
+  *******************
+ *********************
+***********************
+Which shape do you want to draw?
+1 - Diamond
+2 - Triangle
+3 - Parallelogram
+4 - Pyramid
+5 - Hourglass
+6 - Quit program
+6
+Gh0stSurfer:~ doga$ 

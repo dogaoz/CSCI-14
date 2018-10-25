@@ -1,0 +1,52 @@
+doga$ /Users/doga/Desktop/CS14/Assignment4/digitcharacters
+Enter character :
+A
+The character A corresponds to digit 2 on the keypad.
+doga$ /Users/doga/Desktop/CS14/Assignment4/digitcharacters
+Enter character :
+E
+The character E corresponds to digit 3 on the keypad.
+doga$ /Users/doga/Desktop/CS14/Assignment4/digitcharacters
+Enter character :
+G
+The character G corresponds to digit 4 on the keypad.
+doga$ /Users/doga/Desktop/CS14/Assignment4/digitcharacters
+Enter character :
+K
+The character K corresponds to digit 5 on the keypad.
+doga$ /Users/doga/Desktop/CS14/Assignment4/digitcharacters
+Enter character :
+M
+The character M corresponds to digit 6 on the keypad.
+doga$ /Users/doga/Desktop/CS14/Assignment4/digitcharacters
+Enter character :
+S
+The character S corresponds to digit 7 on the keypad.
+doga$ /Users/doga/Desktop/CS14/Assignment4/digitcharacters
+Enter character :
+U
+The character U corresponds to digit 8 on the keypad.
+doga$ /Users/doga/Desktop/CS14/Assignment4/digitcharacters
+Enter character :
+W
+The character W corresponds to digit 9 on the keypad.
+doga$ /Users/doga/Desktop/CS14/Assignment4/digitcharacters
+Enter character :
+Q
+The character doesn't correspond to any digit on the keypad.
+doga$ /Users/doga/Desktop/CS14/Assignment4/digitcharacters
+Enter character :
+9
+This is not a capital letter.
+doga$ /Users/doga/Desktop/CS14/Assignment4/digitcharacters
+Enter character :
+324
+This is not a capital letter.
+doga$ /Users/doga/Desktop/CS14/Assignment4/digitcharacters
+Enter character :
+m
+This is not a capital letter.
+doga$ /Users/doga/Desktop/CS14/Assignment4/digitcharacters
+Enter character :
+y
+This is not a capital letter.

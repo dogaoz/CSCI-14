@@ -1,0 +1,200 @@
+Last login: Thu Apr 26 20:40:56 on ttys001
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab10/guesser
+I'm guessing the number is 50
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+1
+I'm guessing the number is 75
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+2
+I'm guessing the number is 62
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+2
+I'm guessing the number is 56
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+1
+I'm guessing the number is 59
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+2
+I'm guessing the number is 57
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+1
+I'm guessing the number is 58
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+0
+I found it on 7th try. It is 58
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab10/guesser
+I'm guessing the number is 50
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+1
+I'm guessing the number is 75
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+1
+I'm guessing the number is 88
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+1
+I'm guessing the number is 94
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+1
+I'm guessing the number is 97
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+1
+I'm guessing the number is 99
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+1
+I'm guessing the number is 100
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+1
+I'm guessing the number is 100
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+1
+Sorry, I couldn't find after 8 tries.
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab10/guesser
+I'm guessing the number is 50
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+1
+I'm guessing the number is 75
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+1
+I'm guessing the number is 88
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+1
+I'm guessing the number is 94
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+1
+I'm guessing the number is 97
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+1
+I'm guessing the number is 99
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+1
+I'm guessing the number is 100
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+0
+I found it on 7th try. It is 100
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab10/guesser
+I'm guessing the number is 50
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+2
+I'm guessing the number is 25
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+2
+I'm guessing the number is 12
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+2
+I'm guessing the number is 6
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+2
+I'm guessing the number is 3
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+2
+I'm guessing the number is 1
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+2
+I'm guessing the number is 1
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+2
+I'm guessing the number is 1
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+2
+Sorry, I couldn't find after 8 tries.
+Gh0stSurfer:~ doga$ 2
+-bash: 2: command not found
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab10/guesser
+I'm guessing the number is 50
+Is my guess right or is it smaller or bigger?
+- Enter 0 if it is CORRECT 
+- Enter 1 if it is TOO SMALL
+- Enter 2 if it is TOO BIG
+0
+I found it on 1th try. It is 50
+Gh0stSurfer:~ doga$ 

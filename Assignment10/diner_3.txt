@@ -1,0 +1,89 @@
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment10/diner_3
+1 : Cheese Burger -- $3.49
+2 : Double-double Burger -- $4.49
+3 : Chicken Burger -- $5.49
+4 : Small Fries -- $2.99
+5 : Medium Fries -- $3.99
+6 : Large Fries -- $4.99
+7 : Small Drink -- $1.99
+8 : Medium Drink -- $2.99
+9 : Large Drink -- $3.39
+10 : Extra Sauce -- $0.49
+Enter a product number to add into cart.
+3
+Enter a product number to add into cart.
+5
+Enter a product number to add into cart.
+-1
+## 2 items selected. ##
+Chicken Burger -- $5.49
+Medium Fries -- $3.99
+## Total amount due: $9.48 ##
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment10/diner_3
+1 : Cheese Burger -- $3.49
+2 : Double-double Burger -- $4.49
+3 : Chicken Burger -- $5.49
+4 : Small Fries -- $2.99
+5 : Medium Fries -- $3.99
+6 : Large Fries -- $4.99
+7 : Small Drink -- $1.99
+8 : Medium Drink -- $2.99
+9 : Large Drink -- $3.39
+10 : Extra Sauce -- $0.49
+Enter a product number to add into cart.
+1032
+Selected item doesn't exist.
+Enter a product number to add into cart.
+-3245
+Selected item doesn't exist.
+Enter a product number to add into cart.
+5 
+Enter a product number to add into cart.
+-1
+## 1 items selected. ##
+Medium Fries -- $3.99
+## Total amount due: $3.99 ##
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment10/diner_3
+1 : Cheese Burger -- $3.49
+2 : Double-double Burger -- $4.49
+3 : Chicken Burger -- $5.49
+4 : Small Fries -- $2.99
+5 : Medium Fries -- $3.99
+6 : Large Fries -- $4.99
+7 : Small Drink -- $1.99
+8 : Medium Drink -- $2.99
+9 : Large Drink -- $3.39
+10 : Extra Sauce -- $0.49
+Enter a product number to add into cart.
+1
+Enter a product number to add into cart.
+2
+Enter a product number to add into cart.
+3
+Enter a product number to add into cart.
+4
+Enter a product number to add into cart.
+5
+Enter a product number to add into cart.
+6
+Enter a product number to add into cart.
+7
+Enter a product number to add into cart.
+8
+Enter a product number to add into cart.
+9
+Enter a product number to add into cart.
+10
+## 10 items selected. ##
+Cheese Burger -- $3.49
+Double-double Burger -- $4.49
+Chicken Burger -- $5.49
+Small Fries -- $2.99
+Medium Fries -- $3.99
+Large Fries -- $4.99
+Small Drink -- $1.99
+Medium Drink -- $2.99
+Large Drink -- $3.39
+Extra Sauce -- $0.49
+## Total amount due: $34.30 ##
+Gh0stSurfer:~ doga$ 

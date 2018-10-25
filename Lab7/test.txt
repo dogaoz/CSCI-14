@@ -1,0 +1,38 @@
+Last login: Tue Mar 13 19:51:31 on ttys000
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab7/test
+-1
+
+1. (a) while-loop 
+-1
+
+1. (b) do-while loop (careful: handle the user entering n<= 0) 
+-1
+
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab7/test
+0
+
+1. (a) while-loop 
+0
+
+1. (b) do-while loop (careful: handle the user entering n<= 0) 
+0
+
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab7/test
+1
+0 
+1. (a) while-loop 
+1
+0 
+1. (b) do-while loop (careful: handle the user entering n<= 0) 
+1
+0 
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab7/test
+4
+0 1 2 3 
+1. (a) while-loop 
+4
+0 1 2 3 
+1. (b) do-while loop (careful: handle the user entering n<= 0) 
+4
+0 1 2 3 
+Gh0stSurfer:~ doga$ 

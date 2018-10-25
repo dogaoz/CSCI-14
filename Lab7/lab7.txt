@@ -1,0 +1,57 @@
+Last login: Tue Mar 13 19:57:01 on ttys000
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab7/lab7
+Number 2 original code: -1
+
+Number 2 Part A: -1
+
+Number 2 Part B: -1
+
+Number 3: -1
+1 
+Number 3 Part A: -1
+1 
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab7/lab7
+Number 2 original code: 0
+
+Number 2 Part A: 0
+
+Number 2 Part B: 0
+
+Number 3: 0
+1 
+Number 3 Part A: 0
+1 
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab7/lab7
+Number 2 original code: 1
+1 
+Number 2 Part A: 1
+1 
+Number 2 Part B: 1
+1 
+Number 3: 1
+1 
+Number 3 Part A: 1
+1 
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab7/lab7
+Number 2 original code: 5
+5 2 1 
+Number 2 Part A: 5
+5 2 1 
+Number 2 Part B: 5
+5 2 1 
+Number 3: 5
+1 2 4 
+Number 3 Part A: 5
+1 2 4 
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab7/lab7
+Number 2 original code: 8
+8 4 2 1 
+Number 2 Part A: 8
+8 4 2 1 
+Number 2 Part B: 8
+8 4 2 1 
+Number 3: 8
+1 2 4 8 
+Number 3 Part A: 8
+1 2 4 8 
+Gh0stSurfer:~ doga$ 

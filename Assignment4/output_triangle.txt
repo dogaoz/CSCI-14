@@ -1,0 +1,86 @@
+doga$ /Users/doga/Desktop/CS14/Assignment4/triangle
+Enter Side 1 :
+3
+Enter Side 2 :
+4
+Enter Side 3 :
+5
+It is a right triangle
+doga$ /Users/doga/Desktop/CS14/Assignment4/triangle
+Enter Side 1 :
+5
+Enter Side 2 :
+4
+Enter Side 3 :
+3
+It is a right triangle
+doga$ /Users/doga/Desktop/CS14/Assignment4/triangle
+Enter Side 1 :
+4
+Enter Side 2 :
+5
+Enter Side 3 :
+3
+It is a right triangle
+doga$ /Users/doga/Desktop/CS14/Assignment4/triangle
+Enter Side 1 :
+6
+Enter Side 2 :
+10
+Enter Side 3 :
+8
+It is a right triangle
+doga$ /Users/doga/Desktop/CS14/Assignment4/triangle
+Enter Side 1 :
+4
+Enter Side 2 :
+4
+Enter Side 3 :
+6
+It is NOT a right triangle
+doga$ /Users/doga/Desktop/CS14/Assignment4/triangle
+Enter Side 1 :
+5
+Enter Side 2 :
+12
+Enter Side 3 :
+13
+It is a right triangle
+doga$ /Users/doga/Desktop/CS14/Assignment4/triangle
+Enter Side 1 :
+13
+Enter Side 2 :
+5
+Enter Side 3 :
+12
+It is a right triangle
+doga$ /Users/doga/Desktop/CS14/Assignment4/triangle
+Enter Side 1 :
+34
+Enter Side 2 :
+5
+Enter Side 3 :
+98
+It is NOT a right triangle
+
+—— Test by hand
+For 3 4 5
+
+3*3 + 4*4 = 5*5
+9 + 16 = 25
+25 = 25 // WORKS
+
+—— Test by hand
+For 5 12 13
+
+5*5 + 12*12 = 13*13
+25 + 144 = 169
+169 = 169 // Works
+
+—— Test by hand
+For 4 7 4
+
+4*4 + 4*4 = 7*7
+16 + 16 = 49
+32 is not equal to 49 // It doesn’t work
+// It is not a right triangle

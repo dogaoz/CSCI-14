@@ -1,0 +1,52 @@
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment6/diamonds
+Please enter number of rows: 
+1
+Too few rows to make a diamond. 
+Please enter a new number of rows: 
+30
+Too many rows to make a diamond. 
+Please enter a new number of rows: 
+4
+  *
+ ***
+*****
+ ***
+  *
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment6/diamonds
+Please enter number of rows: 
+13
+      *
+     ***
+    *****
+   *******
+  *********
+ ***********
+*************
+ ***********
+  *********
+   *******
+    *****
+     ***
+      *
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment6/diamonds
+Please enter number of rows: 
+10
+     *
+    ***
+   *****
+  *******
+ *********
+***********
+ *********
+  *******
+   *****
+    ***
+     *
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment6/diamonds
+Please enter number of rows: 
+5
+  *
+ ***
+*****
+ ***
+  *

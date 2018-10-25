@@ -1,0 +1,84 @@
+Last login: Thu Apr  5 20:04:20 on ttys000
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab8/coffeeshop
+Enter the coffee: 3
+Enter the bagels: 2
+Enter the danish: 1
+	Our Coffee shop
+Item	Quantity	Price
+Coffee	3		$3.75
+Bagel	2		$3.00
+Danish	1		$2.25
+
+Subtotal 		$9.00
+
+Tax 			$0.81
+
+Total 			$9.81
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab8/coffeeshop
+Enter the coffee: 5
+Enter the bagels: 31
+Enter the danish: 54
+	Our Coffee shop
+Item	Quantity	Price
+Coffee	5		$6.25
+Bagel	31		$46.50
+Danish	54		$121.50
+
+Subtotal 		$174.25
+
+Tax 			$15.68
+
+Total 			$189.93
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab8/coffeeshop
+Enter the coffee: 0
+Enter the bagels: 1
+Enter the danish: 3
+	Our Coffee shop
+Item	Quantity	Price
+Coffee	0		$0.00
+Bagel	1		$1.50
+Danish	3		$6.75
+
+Subtotal 		$8.25
+
+Tax 			$0.74
+
+Total 			$8.99
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab8/coffeeshop
+Enter the coffee: 0
+Enter the bagels: 0
+Enter the danish: 0
+	Our Coffee shop
+Item	Quantity	Price
+Coffee	0		$0.00
+Bagel	0		$0.00
+Danish	0		$0.00
+
+Subtotal 		$0.00
+
+Tax 			$0.00
+
+Total 			$0.00
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab8/coffeeshop
+Enter the coffee: -1 
+Enter the coffee: -5
+Enter the coffee: 3
+Enter the bagels: -3
+Enter the bagels: -3
+Enter the bagels: -5
+Enter the bagels: 3
+Enter the danish: -7
+Enter the danish: -5
+Enter the danish: 12
+	Our Coffee shop
+Item	Quantity	Price
+Coffee	3		$3.75
+Bagel	3		$4.50
+Danish	12		$27.00
+
+Subtotal 		$35.25
+
+Tax 			$3.17
+
+Total 			$38.42
+Gh0stSurfer:~ doga$ 

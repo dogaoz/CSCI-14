@@ -1,0 +1,20 @@
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment10/diner_1
+Enter product name:
+double double burger
+Enter product price:
+9.99
+double double burger -- $9.99
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment10/diner_1
+Enter product name:
+Milkshake
+Enter product price:
+3.49
+Milkshake -- $3.49
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment10/diner_1
+Enter product name:
+Ice Coffee
+Enter product price:
+2.49
+Ice Coffee -- $2.49
+Gh0stSurfer:~ doga$ 
+

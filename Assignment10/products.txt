@@ -1,0 +1,20 @@
+Cheese Burger
+3.49
+Double-double Burger
+4.49
+Chicken Burger
+5.49
+Small Fries
+2.99
+Medium Fries
+3.99
+Large Fries
+4.99
+Small Drink
+1.99
+Medium Drink
+2.99
+Large Drink
+3.39
+Extra Sauce
+0.49

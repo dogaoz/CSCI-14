@@ -1,0 +1,59 @@
+doga$ /Users/doga/Desktop/CSCI14/Assignment2/convertCelsius
+Enter temperature in degrees Celsius (dc):
+-40
+you entered -40 degree celsius.
+It's equivalent in degree fahrenheit (df) is -40
+
+doga$ /Users/doga/Desktop/CSCI14/Assignment2/convertCelsius
+Enter temperature in degrees Celsius (dc):
+0
+you entered 0 degree celsius.
+It's equivalent in degree fahrenheit (df) is 32
+
+doga$ /Users/doga/Desktop/CSCI14/Assignment2/convertCelsius
+Enter temperature in degrees Celsius (dc):
+37
+you entered 37 degree celsius.
+It's equivalent in degree fahrenheit (df) is 98.6
+
+doga$ /Users/doga/Desktop/CSCI14/Assignment2/convertCelsius
+Enter temperature in degrees Celsius (dc):
+100
+you entered 100 degree celsius.
+It's equivalent in degree fahrenheit (df) is 212
+
+doga$ /Users/doga/Desktop/CSCI14/Assignment2/convertCelsius
+Enter temperature in degrees Celsius (dc):
+58
+you entered 58 degree celsius.
+It's equivalent in degree fahrenheit (df) is 136.4
+
+doga$ /Users/doga/Desktop/CSCI14/Assignment2/convertCelsius
+Enter temperature in degrees Celsius (dc):
+23.5
+you entered 23.5 degree celsius.
+It's equivalent in degree fahrenheit (df) is 74.3
+
+ -40, 0, 37 and 100
+
+You chose the value -40 because -40 degree celsius is equal to -40 degree fahrenheit
+It’s the value when celsius and fahrenheit are the same.
+
+You chose the value 0 because 0 degree celsius is equal to 32 degree fahrenheit.
+And It’s the freezing point of water, it’s a reasonable number unlike the weird number 32 in imperial system.
+
+You chose the value 37 because 37 degree celsius is equal to 98.6 degree fahrenheit.
+And It’s the value for normal human body temperature.
+
+You chose the value 100 because 100 degree celsius is equal to 212 degree fahrenheit.
+And It’s the boiling point of water, it’s a reasonable number unlike the weird number 212 in imperial system.
+
+Check math: 23.5 celsius to fahrenheit
+x = 9/5 * 23.5 + 32
+
+x = 74.3
+
+Check math: 37 celsius to fahrenheit
+x = 9/5 * 37 + 32
+
+x = 98.6

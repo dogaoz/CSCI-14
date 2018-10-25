@@ -1,0 +1,80 @@
+Last login: Thu Apr 19 20:52:50 on ttys001
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab9/program1
+Please enter 50 numbers: 0
+Please enter 50 numbers: -1
+Please enter 50 numbers: -43435
+Please enter 50 numbers: 4356
+Please enter 50 numbers: 76
+Please enter 50 numbers: 4
+Please enter 50 numbers: 3
+Please enter 50 numbers: 345
+Please enter 50 numbers: 5
+Please enter 50 numbers: 4
+Please enter 50 numbers: 4
+Please enter 50 numbers: 3
+Please enter 50 numbers: 34
+Please enter 50 numbers: 5
+Please enter 50 numbers: 6
+Please enter 50 numbers: 6
+Please enter 50 numbers: 7
+Please enter 50 numbers: 
+8
+Please enter 50 numbers: 9
+Please enter 50 numbers: 98
+Please enter 50 numbers: 7
+Please enter 50 numbers: 7
+Please enter 50 numbers: 7
+Please enter 50 numbers: 6
+Please enter 50 numbers: 5
+Please enter 50 numbers: 5
+Please enter 50 numbers: 4
+Please enter 50 numbers: 4
+Please enter 50 numbers: 4
+Please enter 50 numbers: 56
+Please enter 50 numbers: 67
+Please enter 50 numbers: 7
+Please enter 50 numbers: 7
+Please enter 50 numbers: 5
+Please enter 50 numbers: 54
+Please enter 50 numbers: 4
+Please enter 50 numbers: 4
+Please enter 50 numbers: 5
+Please enter 50 numbers: 6
+Please enter 50 numbers: 7
+Please enter 50 numbers: 7
+Please enter 50 numbers: 7
+Please enter 50 numbers: 5
+Please enter 50 numbers: 4
+Please enter 50 numbers: 3
+Please enter 50 numbers: 34
+Please enter 50 numbers: 5
+Please enter 50 numbers: 
+65
+Please enter 50 numbers: 678
+Please enter 50 numbers: 778
+Largest number is 0
+Smallest number is 0
+Sum of numbers is 0
+Average of numbers is 0
+Printing Numbers in entered order...
+0-43435 4356   76    4    3  345    5    4
+4    3   34    5    6    6    7    8    9   98
+7    7    7    6    5    5    4    4    4   56
+67    7    7    5   54    4    4    5    6    7
+7    7    5    4    3   34    5   65  678  778
+Printing Numbers in reverse order...
+778  678   65    5   34    3    4    5    7    7
+7    6    5    4    4   54    5    7    7   67
+56    4    4    4    5    5    6    7    7    7
+98    9    8    7    6    6    5   34    3    4
+4    5  345    3    4   76 4356-43435    0
+Printing Numbers after sorted...
+0-43435 4356   76    4    3  345    5    4
+4    3   34    5    6    6    7    8    9   98
+7    7    7    6    5    5    4    4    4   56
+67    7    7    5   54    4    4    5    6    7
+7    7    5    4    3   34    5   65  678  778
+Gh0stSurfer:~ doga$ 98
+-bash: 98: command not found
+Gh0stSurfer:~ doga$ 34
+-bash: 34: command not found

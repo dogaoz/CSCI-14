@@ -1,0 +1,12 @@
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment10/diner_2
+1 : Cheese Burger -- $3.49
+2 : Double-double Burger -- $4.49
+3 : Chicken Burger -- $5.49
+4 : Small Fries -- $2.99
+5 : Medium Fries -- $3.99
+6 : Large Fries -- $4.99
+7 : Small Drink -- $1.99
+8 : Medium Drink -- $2.99
+9 : Large Drink -- $3.39
+10 : Extra Sauce -- $0.49
+Gh0stSurfer:~ doga$ 

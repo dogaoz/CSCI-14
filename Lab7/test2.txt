@@ -1,0 +1,32 @@
+Last login: Tue Mar 13 19:56:27 on ttys000
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab7/test2
+-1
+1 
+b) using a while loop:
+-1
+1 
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab7/test2
+0
+1 
+b) using a while loop:
+0
+1 
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab7/test2
+1
+1 
+b) using a while loop:
+1
+1 
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab7/test2
+5
+1 2 4 
+b) using a while loop:
+5
+1 2 4 
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab7/test2
+8 
+1 2 4 8 
+b) using a while loop:
+8
+1 2 4 8 
+Gh0stSurfer:~ doga$ 

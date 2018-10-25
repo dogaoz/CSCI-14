@@ -1,0 +1,65 @@
+Last login: Thu Mar 22 14:29:13 on ttys000
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/odd_number
+Please enter a character: 0
+The character you entered is NOT an odd digit.
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/odd_number
+Please enter a character: 1
+The character you entered is an odd digit.
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/odd_number
+Please enter a character: 2    
+The character you entered is NOT an odd digit.
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/odd_number
+Please enter a character: 3
+The character you entered is an odd digit.
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/odd_number
+Please enter a character: 4
+The character you entered is NOT an odd digit.
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/odd_number
+Please enter a character: 5
+The character you entered is an odd digit.
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/odd_number
+Please enter a character: 6    
+The character you entered is NOT an odd digit.
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/odd_number
+Please enter a character: 7
+The character you entered is an odd digit.
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/odd_number
+Please enter a character: 8
+The character you entered is NOT an odd digit.
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/odd_number
+Please enter a character: 9
+The character you entered is an odd digit.
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/odd_number
+Please enter a character: a
+The character you entered is NOT an odd digit.
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/odd_number
+Please enter a character: b
+The character you entered is NOT an odd digit.
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/odd_number
+Please enter a character: c
+The character you entered is NOT an odd digit.
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/odd_number
+Please enter a character: A
+The character you entered is NOT an odd digit.
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/odd_number
+Please enter a character: B
+The character you entered is NOT an odd digit.
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/odd_number
+Please enter a character: C
+The character you entered is NOT an odd digit.
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/odd_number
+Please enter a character: ,
+The character you entered is NOT an odd digit.
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/odd_number
+Please enter a character: /
+The character you entered is NOT an odd digit.
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/odd_number
+Please enter a character: .
+The character you entered is NOT an odd digit.
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/odd_number
+Please enter a character: !
+The character you entered is NOT an odd digit.
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Assignment7/odd_number
+Please enter a character: #
+The character you entered is NOT an odd digit.
+Gh0stSurfer:~ doga$ 

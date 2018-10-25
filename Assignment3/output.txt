@@ -1,0 +1,52 @@
+doga$ /Users/doga/Desktop/CSCI14/Assignment3/loanRemaining
+Enter payment amount:
+165.35
+Enter interest rate (9% as 0.09):
+0.09
+Enter number of payments:
+36
+Payment entered was $165.35
+Interest rate is 0.09 which is 0.0075 per month
+Number of payments is 36
+Payment #1 leaves a balance of $5073.38
+Payment #2 leaves a balance of $4946.08
+Payment #3 leaves a balance of $4817.82
+doga$ /Users/doga/Desktop/CSCI14/Assignment3/loanRemaining
+Enter payment amount:
+195.00
+Enter interest rate (9% as 0.09):
+0.04
+Enter number of payments:
+48
+Payment entered was $195
+Interest rate is 0.04 which is 0.00333333 per month
+Number of payments is 48
+Payment #1 leaves a balance of $8470.11
+Payment #2 leaves a balance of $8303.34
+Payment #3 leaves a balance of $8136.02
+doga$ /Users/doga/Desktop/CSCI14/Assignment3/loanRemaining
+Enter payment amount:
+2148.543
+Enter interest rate (9% as 0.09):
+0.18
+Enter number of payments:
+60
+Payment entered was $2148.54
+Interest rate is 0.18 which is 0.015 per month
+Number of payments is 60
+Payment #1 leaves a balance of $83730.81
+Payment #2 leaves a balance of $82838.23
+Payment #3 leaves a balance of $81932.26
+doga$ /Users/doga/Desktop/CSCI14/Assignment3/loanRemaining
+Enter payment amount:
+23145.32495  
+Enter interest rate (9% as 0.09):
+0.24
+Enter number of payments:
+100
+Payment entered was $23145.3
+Interest rate is 0.24 which is 0.02 per month
+Number of payments is 100
+Payment #1 leaves a balance of $994330.54
+Payment #2 leaves a balance of $991071.82
+Payment #3 leaves a balance of $987747.93

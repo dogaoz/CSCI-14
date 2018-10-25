@@ -1,0 +1,105 @@
+doga$ /Users/doga/Desktop/CS14/Assignment5/paycheck
+Enter how many days will employee work: 10
+For the day 1: 1
+For the day 2: 2
+For the day 3: 4
+For the day 4: 8
+For the day 5: 16
+For the day 6: 32
+For the day 7: 64
+For the day 8: 128
+For the day 9: 256
+For the day 10: 512
+Lump sum paycheck: $10.23
+doga$ /Users/doga/Desktop/CS14/Assignment5/paycheck
+Enter how many days will employee work: 24
+For the day 1: 1
+For the day 2: 2
+For the day 3: 4
+For the day 4: 8
+For the day 5: 16
+For the day 6: 32
+For the day 7: 64
+For the day 8: 128
+For the day 9: 256
+For the day 10: 512
+For the day 11: 1024
+For the day 12: 2048
+For the day 13: 4096
+For the day 14: 8192
+For the day 15: 16384
+For the day 16: 32768
+For the day 17: 65536
+For the day 18: 131072
+For the day 19: 262144
+For the day 20: 524288
+For the day 21: 1048576
+For the day 22: 2097152
+For the day 23: 4194304
+For the day 24: 8388608
+Lump sum paycheck: $167772.15
+doga$ /Users/doga/Desktop/CS14/Assignment5/paycheck
+Enter how many days will employee work: 8
+For the day 1: 1
+For the day 2: 2
+For the day 3: 4
+For the day 4: 8
+For the day 5: 16
+For the day 6: 32
+For the day 7: 64
+For the day 8: 128
+Lump sum paycheck: $2.55
+doga$ /Users/doga/Desktop/CS14/Assignment5/paycheck
+Enter how many days will employee work: 50
+For the day 1: 1
+For the day 2: 2
+For the day 3: 4
+For the day 4: 8
+For the day 5: 16
+For the day 6: 32
+For the day 7: 64
+For the day 8: 128
+For the day 9: 256
+For the day 10: 512
+For the day 11: 1024
+For the day 12: 2048
+For the day 13: 4096
+For the day 14: 8192
+For the day 15: 16384
+For the day 16: 32768
+For the day 17: 65536
+For the day 18: 131072
+For the day 19: 262144
+For the day 20: 524288
+For the day 21: 1048576
+For the day 22: 2097152
+For the day 23: 4194304
+For the day 24: 8388608
+For the day 25: 16777216
+For the day 26: 33554432
+For the day 27: 67108864
+For the day 28: 134217728
+For the day 29: 268435456
+For the day 30: 536870912
+For the day 31: 1073741824
+For the day 32: -2147483648
+For the day 33: 0
+For the day 34: 0
+For the day 35: 0
+For the day 36: 0
+For the day 37: 0
+For the day 38: 0
+For the day 39: 0
+For the day 40: 0
+For the day 41: 0
+For the day 42: 0
+For the day 43: 0
+For the day 44: 0
+For the day 45: 0
+For the day 46: 0
+For the day 47: 0
+For the day 48: 0
+For the day 49: 0
+For the day 50: 0
+Lump sum paycheck: $-0.01
+doga$ 

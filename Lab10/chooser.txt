@@ -1,0 +1,82 @@
+Last login: Thu Apr 26 20:41:37 on ttys001
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab10/chooser
+You have 8 tries to guess my random number between 0-100.
+Try number (1) 45
+Your guess is too big
+
+Try number (2) 30
+Your guess is too small
+
+Try number (3) 40
+Your guess is too big
+
+Try number (4) 35
+
+Congratulations, you got my number in only 4 triesGh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab10/chooser
+You have 8 tries to guess my random number between 0-100.
+Try number (1) 32
+Your guess is too big
+
+Try number (2) 12
+
+Congratulations, you got my number in only 2 triesGh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab10/chooser
+You have 8 tries to guess my random number between 0-100.
+Try number (1) 45
+Your guess is too small
+
+Try number (2) 79
+Your guess is too big
+
+Try number (3) 60
+Your guess is too small
+
+Try number (4) 61
+
+Congratulations, you got my number in only 4 triesGh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab10/chooser
+You have 8 tries to guess my random number between 0-100.
+Try number (1) 1
+Your guess is too small
+
+Try number (2) 2
+Your guess is too small
+
+Try number (3) 3
+Your guess is too small
+
+Try number (4) 4
+Your guess is too small
+
+Try number (5) 5
+Your guess is too small
+
+Try number (6) 6
+Your guess is too small
+
+Try number (7) 7
+Your guess is too small
+
+Try number (8) 8
+Your guess is too small
+
+
+Sorry, you guessed eight times without getting the number, my number was 87
+Gh0stSurfer:~ doga$ /Users/doga/Desktop/CS14/Lab10/chooser
+You have 8 tries to guess my random number between 0-100.
+Try number (1) 5
+Your guess is too small
+
+Try number (2) 8
+Your guess is too small
+
+Try number (3) 9
+Your guess is too small
+
+Try number (4) 67
+Your guess is too big
+
+Try number (5) 40
+Your guess is too small
+
+Try number (6) 50
+
+Congratulations, you got my number in only 6 triesGh0stSurfer:~ doga$ 

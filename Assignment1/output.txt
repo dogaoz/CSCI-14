@@ -1,0 +1,46 @@
+Enter radius :
+0
+you entered 0 as radius.
+diameter is 0
+area is 0
+circumference is 0
+
+doga$ /Users/doga/Desktop/CSCI14/Assignment1/calculate
+Enter radius :
+0.5
+you entered 0.5 as radius.
+diameter is 1
+area is 0.785398
+circumference is 3.14159
+
+doga$ /Users/doga/Desktop/CSCI14/Assignment1/calculate
+Enter radius :
+1.0
+you entered 1 as radius.
+diameter is 2
+area is 3.14159
+circumference is 6.28318
+
+doga$ /Users/doga/Desktop/CSCI14/Assignment1/calculate
+Enter radius :
+1.5
+you entered 1.5 as radius.
+diameter is 3
+area is 7.06858
+circumference is 9.42477
+
+doga$ /Users/doga/Desktop/CSCI14/Assignment1/calculate
+Enter radius :
+2.5
+you entered 2.5 as radius.
+diameter is 5
+area is 19.6349
+circumference is 15.708
+
+doga$ /Users/doga/Desktop/CSCI14/Assignment1/calculate
+Enter radius :
+3
+you entered 3 as radius.
+diameter is 6
+area is 28.2743
+circumference is 18.8495
